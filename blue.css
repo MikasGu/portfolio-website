@@ -1,0 +1,42 @@
+:root {
+  --mainColor: #15202b;
+  --secondaryColor: #192734;
+  --borderColor: #c1c1c1;
+  --mainText: #fff;
+  --secondaryText: #eeeeee;
+
+  --themeDotBorder: #fff;
+  --previewBg: rgb(25, 39, 52, 0.8);
+  --previewShadow: #111921;
+
+  --buttonColor: #17a2b8;
+}
+
+.s1 {
+  background-image: url("images/giphy.gif");
+  background-size: auto;
+}
+
+.intro-wrapper {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+#git-mode {
+  height: auto;
+  color: #b812a7;
+  --fa-animation-duration: 30s;
+}
+
+#git-mode:hover {
+  color: red;
+}
+
+#linkedin-mode {
+  height: auto;
+  color: #1c10bd;
+  --fa-animation-duration: 35s;
+}
+
+#linkedin-mode:hover {
+  color: red;
+}
