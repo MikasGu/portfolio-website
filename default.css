@@ -281,6 +281,11 @@ hr {
   font-size: 17px;
 }
 
+#post-links {
+  color: #000000;
+  font-size: 17px;
+}
+
 #navigation {
   margin: 0;
   padding: 10px;

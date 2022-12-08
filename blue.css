@@ -40,3 +40,8 @@
 #linkedin-mode:hover {
   color: red;
 }
+
+.post-intro {
+  color: #000000;
+  font-size: 17px;
+}
