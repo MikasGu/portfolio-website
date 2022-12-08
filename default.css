@@ -226,8 +226,9 @@ hr {
 
 #skills {
   display: flex;
-  justify-content: space-evenly;
-  background-color: var(--previewShadow);
+  font-size: 25px;
+  justify-content: left;
+  background-color: var(--previewBg);
 }
 
 .social-links {
@@ -243,8 +244,8 @@ hr {
 
 .post-wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fit, 400px);
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, 500px);
+  gap: 50px;
   justify-content: center;
   padding-bottom: 50px;
 }
@@ -263,7 +264,6 @@ hr {
   height: 300px;
   object-fit: cover;
   object-position: left top;
-  overflow-y: scroll;
 }
 
 .post-preview {
